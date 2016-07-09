@@ -1,6 +1,6 @@
 # Ruby on Rails Tutorial
 
-## "hello, goodbye, world!"
+## "hello, people of the world!"
 
 This is the first application for the
 [*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
